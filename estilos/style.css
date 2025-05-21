@@ -7,7 +7,7 @@ body{
     background-color: rgb(190, 128, 248);
 }
 
-main{
+main, header{
     background-color: white;
     margin: auto;
     width: 500px;
